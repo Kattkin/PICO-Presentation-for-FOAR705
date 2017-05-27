@@ -53,8 +53,6 @@ What happens if data is missing?
 What happens if you need to look at a specific section of the data you have collected?
 \includegraphics[scale=0.5]{{why.jpg}}
 \centering
-\newline
-You might end up wasting a lot of valuable time trying to solve these problems.
  \end{frame}
 
 %section 2 - Initial Scoping (subsection - selection)%%%%%%%

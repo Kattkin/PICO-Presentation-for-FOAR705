@@ -1,11 +1,13 @@
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Scoping}{4}{0}{2}
-\beamer@subsectionintoc {2}{1}{Selection}{4}{0}{2}
-\beamer@subsectionintoc {2}{2}{Elaboration}{5}{0}{2}
-\beamer@sectionintoc {3}{Implementation}{6}{0}{3}
-\beamer@subsectionintoc {3}{1}{Creating a Tool Chain}{6}{0}{3}
-\beamer@subsectionintoc {3}{2}{Elaborating on my Chain}{7}{0}{3}
-\beamer@sectionintoc {4}{Results}{8}{0}{4}
-\beamer@subsectionintoc {4}{1}{Pros}{8}{0}{4}
-\beamer@subsectionintoc {4}{2}{Cons}{9}{0}{4}
-\beamer@sectionintoc {5}{Conclusion}{10}{0}{5}
+\beamer@subsectionintoc {1}{1}{My Research Topic}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{The Problem with Excel}{4}{0}{1}
+\beamer@sectionintoc {2}{Scoping}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Selection}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Elaboration}{6}{0}{2}
+\beamer@sectionintoc {3}{Implementation}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Creating a Tool Chain}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Elaborating on my Chain}{8}{0}{3}
+\beamer@sectionintoc {4}{Results}{9}{0}{4}
+\beamer@subsectionintoc {4}{1}{Pros}{9}{0}{4}
+\beamer@subsectionintoc {4}{2}{Cons}{10}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{11}{0}{5}
