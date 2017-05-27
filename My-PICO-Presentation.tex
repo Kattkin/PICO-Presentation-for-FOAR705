@@ -1,0 +1,130 @@
+\documentclass{beamer}
+\usetheme{Hannover}
+
+%Title%
+\title{R as a tool for digital survey data}
+\subtitle{FOAR705 Proof of Concept presentation}
+\author{Kathryn Phillips, 43686826} 
+\institute{Macquarie University}
+\date{\today}
+
+%document%
+\begin{document}
+%content goes here%
+%Title page%
+\begin{frame}
+\frame{\titlepage}
+\end{frame}
+
+%contents table%
+\begin{frame}
+\frametitle{Table of Contents}
+\tableofcontents
+\end{frame}
+
+%section one -Introduction%%%%%%%
+\section{Introduction}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Introduction}
+%include font and spacing?%
+My proof of concept for FOAR705 centred around constructing a tool chain using the data analysis software "R". As my MRes research topic is centred around examining the influence of Korean popular music (K-Pop) within the Japanese music market, I plan to collect large quantities of data on listening tastes and the recognition/interest in K-Pop from Japanese residents: especially within the Tokyo Region. 
+\newline
+\newline
+ Manual collation of such data, or even the use of Excel spreadsheets could prove difficult and time-consuming. Therefore, I decided that attempting to create a simple tool chain, using R to collect and extrapolate CSV-formatted data sets and subsets, before producing easy-to-interpret visual data (in the form of graphs) would greatly reduce the amount of time spent on analysing the surveys in my actual research time frame.
+ \end{frame}
+
+%section 2 - Initial Scoping (subsection - selection)%%%%%%%
+\section{Scoping}
+\subsection{Selection}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Scoping}
+\framesubtitle{Selection}
+%font and spacing to be added%
+Initially, I had several areas where using a digital tool could improve the flow and time-consumption of my work.
+\newline
+\item - Compiling sources for literature research
+\item - Analysis of survey data
+\item - Transcription and Translation of Interviews
+\item - Writing and formatting my final Thesis
+\newline
+\newline
+Out of these four areas, I considered survey data analysis to be the most time-consuming, so I decided to work on saving time here through implementing a digital tool.
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Elaboration}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Scoping}
+\framesubtitle{Elaboration}
+In order to choose the correct tool to use, I had to refine my input and output sources. These went through many iterations, but eventually ended up like this:
+\newline
+\newline
+- Input: Raw data collected from an online survey site that is capable of producing both qualitative and quantitative data and presenting it in a CSV format.
+\newline
+- Output: A dataset that can receive queries for specific subsets, answer these queries and plot the results in a graphical format.
+\newline
+\newline
+Due to my choice of input and output, I was able to pick R as my intended tool-of-choice.
+\end{frame}
+
+%New Section - Implementation%%%%
+\section{Implementation}
+\subsection{Creating a Tool Chain}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Implementation}
+\framesubtitle{Creating a Tool Chain}
+To begin with, I needed to prove that R could take a basic .csv input and create my desired output. To do this, I began by creating my own small table of data, before loading it into the R environment and constructing a plot.  
+\newline
+\newline
+This tool chain was a success, so I was then able to continue onto using more complex data, in a similar style to what I intended on using in my final thesis.
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Elaborating on my Chain}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Implementation}
+\framesubtitle{Elaborating on my Chain}
+Now I knew that my tool chain worked with simple data, I decided to create a more complicated chain. This time, I would create a survey; mimicking question formats potentially suitable for my thesis.
+\newline
+For this, I created a simple survey via Google Forms. The number of questions were still kept to a minimum, and I asked my classmates and co-convenors to fill out this questionnaire. I then intended to construct normalised data grids within R, save them each as new, separate CSVs, before taking each and constructing graphs from them.
+\newline
+However, I have not yet completed this task. I intend to focus on this task in the next few weeks (until the date of the final formal presentation).
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Results}
+\subsection{Pros}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Results}
+\framesubtitle{Pros:}
+\item -General growth of my technical skillset
+\item -Success in using R to create simple tool chains
+\item -Increased knowledge of technical tools available for implementation in a range of tasks
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Cons}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Results}
+\framesubtitle{Cons:}
+\item -R support online is often outdated for the current version (code changes)
+\item -Time is still currently an issue in terms of utilising this tool - however, I would say that if R is implemented properly, there will likely be fewer problems concerning data breaking under manipulation. 
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Conclusion}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Conclusion}
+So far, my implementation of R as a tool for data analysis; taking simple raw csv data from online survey sites and producing clear graphical data for word processing and typesetting software has been successful. It still remains to be seen if I can effectively manipulate more complicated data. However, I am confident that with this technical skillset I have learnt in the process of undertaking my Proof of Concept, I will be more prepared to solve potential problems with my data, and will have saved time that will be valuable elsewhere during my MRes course.
+\end{frame}
+
+%done!%
+\end{document}
