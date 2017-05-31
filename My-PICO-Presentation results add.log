@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.30)  1 JUN 2017 00:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.30)  1 JUN 2017 00:33
 entering extended mode
 **"./My-PICO-Presentation results add.tex"
 ("My-PICO-Presentation results add.tex"
@@ -939,14 +939,18 @@ Overfull \hbox (2.00047pt too wide) has occurred while \output is active
 ] <bts.png, id=192, 623.32875pt x 613.29124pt>
 File: bts.png Graphic file (type png)
  <use bts.png>
-Package pdftex.def Info: bts.png used on input line 38.
+Package pdftex.def Info: bts.png used on input line 39.
 (pdftex.def)             Requested size: 124.66353pt x 122.65607pt.
 
 <kpopexample.jpg, id=193, 210.7875pt x 118.64325pt>
 File: kpopexample.jpg Graphic file (type jpg)
  <use kpopexample.jpg>
-Package pdftex.def Info: kpopexample.jpg used on input line 38.
+Package pdftex.def Info: kpopexample.jpg used on input line 39.
 (pdftex.def)             Requested size: 126.47346pt x 71.18648pt.
+
+Overfull \vbox (15.99535pt too high) detected at line 39
+ []
+
 
 Overfull \hbox (2.00047pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Implementation  
@@ -955,14 +959,14 @@ Overfull \hbox (2.00047pt too wide) has occurred while \output is active
 [3
 
  <./bts.png> <./kpopexample.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 54.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 55.
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 54.
+LaTeX Font Info:    No file OMScmss.fd. on input line 55.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 54.
+(Font)              for symbol `textbullet' on input line 55.
 
 
 Overfull \hbox (2.00047pt too wide) has occurred while \output is active
@@ -993,17 +997,17 @@ Overfull \hbox (2.00047pt too wide) has occurred while \output is active
 [7
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 114.
+LaTeX Font Info:    Try loading font information for U+msa on input line 115.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 114.
+LaTeX Font Info:    Try loading font information for U+msb on input line 115.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 114.
+line 115.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1015,10 +1019,10 @@ Overfull \hbox (2.00047pt too wide) has occurred while \output is active
 
 [8
 
-] <Diagram.png, id=444, 602.25pt x 272.01625pt>
+] <Diagram.png, id=446, 602.25pt x 272.01625pt>
 File: Diagram.png Graphic file (type png)
  <use Diagram.png>
-Package pdftex.def Info: Diagram.png used on input line 128.
+Package pdftex.def Info: Diagram.png used on input line 129.
 (pdftex.def)             Requested size: 210.79065pt x 95.2071pt.
 
 Overfull \hbox (2.00047pt too wide) has occurred while \output is active
@@ -1027,11 +1031,11 @@ Overfull \hbox (2.00047pt too wide) has occurred while \output is active
 
 [9
 
- <./Diagram.png>] <Final.png, id=486, 837.1275pt x 416.30531pt>
+ <./Diagram.png>] <Final.png, id=488, 837.1275pt x 416.30531pt>
 File: Final.png Graphic file (type png)
 
 <use Final.png>
-Package pdftex.def Info: Final.png used on input line 145.
+Package pdftex.def Info: Final.png used on input line 146.
 (pdftex.def)             Requested size: 251.14018pt x 124.89255pt.
 
 Overfull \hbox (2.00047pt too wide) has occurred while \output is active
@@ -1048,13 +1052,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.154 \end{frame}
+l.155 \end{frame}
                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 154
+Underfull \hbox (badness 10000) detected at line 155
 [][]
  []
 
@@ -1065,13 +1069,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.154 \end{frame}
+l.155 \end{frame}
                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 154
+Underfull \hbox (badness 10000) detected at line 155
 [][]
  []
 
@@ -1106,11 +1110,11 @@ Overfull \hbox (2.00047pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `"My-PICO-Presentation results add.snm"'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 180.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 180.
  ("My-PICO-Presentation results add.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 180.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 180.
 Package rerunfilecheck Info: File `"My-PICO-Presentation results add".out' has 
 not changed.
 (rerunfilecheck)             Checksum: 27A4134093931D0B0BF9BE3F39F3B598;936.
@@ -1124,23 +1128,24 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17335 strings out of 493333
- 330540 string characters out of 3139197
+ 17339 strings out of 493333
+ 330575 string characters out of 3139197
  405393 words of memory out of 3000000
- 20408 multiletter control sequences out of 15000+200000
- 11169 words of font info for 41 fonts, out of 3000000 for 9000
+ 20409 multiletter control sequences out of 15000+200000
+ 11525 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,60p,821b,559s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmtt10.pfb>
-Output written on "My-PICO-Presentation results add.pdf" (13 pages, 556282 byte
+ts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmtt10.pfb>
+Output written on "My-PICO-Presentation results add.pdf" (13 pages, 566244 byte
 s).
 PDF statistics:
- 689 PDF objects out of 1000 (max. 8388607)
+ 694 PDF objects out of 1000 (max. 8388607)
  43 named destinations out of 1000 (max. 500000)
  195 words of extra memory for PDF output out of 10000 (max. 10000000)
 
