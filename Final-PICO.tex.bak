@@ -12,6 +12,15 @@
 %document%
 \begin{document}
 %content goes here%
+%Title page%
+\begin{frame}
+\frame{\titlepage}
+\end{frame}
+%contents table%
+\begin{frame}
+\frametitle{Table of Contents}
+\tableofcontents
+\end{frame}
 %section one -Introduction%%%%%%%
 \section{Introduction}
 \subsection{My Research Topic}
@@ -43,15 +52,6 @@ R allows me to:
 \end{itemize}
 With this tool chain, I am well-prepared to start my research in the months to come!
  \end{frame}
-%Title page%
-\begin{frame}
-\frame{\titlepage}
-\end{frame}
-%contents table%
-\begin{frame}
-\frametitle{Table of Contents}
-\tableofcontents
-\end{frame}
 %section 2 - Initial Scoping (subsection - selection)%%%%%%%
 \section{Scoping}
 \subsection{Selection}
